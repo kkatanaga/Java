@@ -1,0 +1,9 @@
+If delimiting last text fails;
+
+Send lastPiece = true, iniVal, and finiVal and add them in a separate method
+
+OR
+
+After reading A or S, send the rest of the data to a separate method
+This method will count how many numbers are separated by commas
+Then either getData will calculate everything or create another separate method

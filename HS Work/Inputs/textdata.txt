@@ -1,0 +1,17 @@
+Program 2:File Handling
+Fred,Flintstone,50,72,300555
+Keigo,Katanaga,19,159,49
+Fr,Flinone,510,742,300
+Kgo,Kagaarr,28,180,111
+Fred,Flintstone,50,72,300555
+Keigo,Katanaga,19,159,49
+Fr,Flinone,510,742,300
+Kgo,Kagaarr,28,180,111
+Fred,Flintstone,50,72,300555
+Keigo,Katanaga,19,159,49
+Fr,Flinone,510,742,300
+Kgo,Kagaarr,28,180,111
+Fred,Flintstone,50,72,300555
+Keigo,Katanaga,19,159,49
+Fr,Flinone,510,742,300
+Kgo,Kagaarr,28,180,111
